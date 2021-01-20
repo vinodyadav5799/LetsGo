@@ -1,4 +1,26 @@
 <resources>
     <string name="app_name">Lets Go</string>
     <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">896884581063916</string>
+    <string name="fb_login_protocol_scheme">fb896884581063916</string>
+    <string name="title_activity_new_main">NewMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">yadav.vinod579@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_last_ride">Rides</string>
+    <string name="action_login">Profile</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_rides">Rides</string>
+
+    <string name="pickup_location">Pickup Location</string>
+    <string name="where_to">Where to?</string>
+    <string name="requesting_your_cab">Requesting your cab</string>
+    <string name="request_cab">Request Cab</string>
+
+    <string name="take_next_ride">Take Next Ride</string>
+
 </resources>
